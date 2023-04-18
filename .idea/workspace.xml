@@ -163,7 +163,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681809301084</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="第四次">
+      <created>1681809373589</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1681809373589</updated>
+    </task>
+    <task id="LOCAL-00016" summary="我他妈服了">
+      <created>1681809758194</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1681809758194</updated>
+    </task>
+    <task id="LOCAL-00017" summary="test分支修改">
+      <created>1681811887394</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1681811887394</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +235,9 @@
     <MESSAGE value="第一次提交git" />
     <MESSAGE value="第二次提交测试+回退" />
     <MESSAGE value="第三次   提交测试+回退" />
-    <option name="LAST_COMMIT_MESSAGE" value="第三次   提交测试+回退" />
+    <MESSAGE value="第四次" />
+    <MESSAGE value="我他妈服了" />
+    <MESSAGE value="test分支修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="test分支修改" />
   </component>
 </project>
