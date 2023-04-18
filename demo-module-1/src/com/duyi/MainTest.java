@@ -6,5 +6,6 @@ public class MainTest {
         System.out.println("test change");
         System.out.println("我他妈就服了");
         System.out.println("hello master");
+        System.out.println("hello test");
     }
 }
