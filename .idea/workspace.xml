@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22847588-707f-4960-923a-67106becb382" name="Changes" comment="" />
+    <list default="true" id="22847588-707f-4960-923a-67106becb382" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +48,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -132,7 +135,35 @@
       <option name="project" value="LOCAL" />
       <updated>1681804476237</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="第一次提交git">
+      <created>1681807633842</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681807633842</updated>
+    </task>
+    <task id="LOCAL-00012" summary="第二次提交测试+回退">
+      <created>1681807724542</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1681807724542</updated>
+    </task>
+    <task id="LOCAL-00013" summary="第三次   提交测试+回退">
+      <created>1681809119171</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1681809119171</updated>
+    </task>
+    <task id="LOCAL-00014" summary="第三次   提交测试+回退">
+      <created>1681809301084</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1681809301084</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +212,8 @@
     <MESSAGE value="我爱你 git" />
     <MESSAGE value="git 你太牛逼了" />
     <MESSAGE value="第一次提交git" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交git" />
+    <MESSAGE value="第二次提交测试+回退" />
+    <MESSAGE value="第三次   提交测试+回退" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次   提交测试+回退" />
   </component>
 </project>
